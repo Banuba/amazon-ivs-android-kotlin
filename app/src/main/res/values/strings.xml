@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Banuba IVS example</string>
+    <string name="session_start">Start Session</string>
+    <string name="session_end">End Session</string>
+    <string name="error_happened_template">Error happened (Code - %1$s)</string>
+</resources>
