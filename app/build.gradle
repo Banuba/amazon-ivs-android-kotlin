@@ -38,7 +38,7 @@ dependencies {
 
 
     // Banuba SDK dependencies
-    implementation "com.banuba.sdk:banuba_sdk:1.4.1"
+    implementation "com.banuba.sdk:banuba_sdk:1.14.0"
 
     // Amazon IVS dependencies
     implementation "com.amazonaws:ivs-broadcast:1.4.0"
