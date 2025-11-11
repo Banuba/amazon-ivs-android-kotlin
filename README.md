@@ -1,8 +1,14 @@
-Quick start examples for [Banuba SDK on Android](https://docs.banuba.com/face-ar-sdk-v1/android/android_overview) 
-and [Amazon IVS](https://aws.amazon.com/ivs/) SDK integration to enhance video broadcasts with real-time face filters and virtual backgrounds.  
+This repository contains quick start examples for 
+[Banuba Face AR SDK on Android](https://docs.banuba.com/face-ar-sdk-v1/android/android_overview) 
+and [Amazon IVS SDK integration](https://aws.amazon.com/ivs/). 
+In them, Interactive Video Service provides the core streaming functionality, while Banuba Face AR SDK enhances it with virtual backgrounds, face filters, and other effects.
 
-Amazon part based on CustomSourceActivity from
-https://github.com/aws-samples/amazon-ivs-broadcast-android-sample
+![image](image.png)
+
+The Amazon part is based on CustomSourceActivity from https://github.com/aws-samples/amazon-ivs-broadcast-android-sample. Read more about integrating it in our blog post: https://www.banuba.com/blog/how-to-build-a-live-streaming-app-with-amazon-ivs-and-banuba-sdk
+
+Banuba Face AR SDK doesn’t collect, store, or process any user data, making it secure by design and compliant with GDPR and other data protection regulations.
+
 
 # Getting Started
 
